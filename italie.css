@@ -1,0 +1,60 @@
+body{
+     background-color: orange;
+     
+}
+.container{
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+    height: 15cm;
+}
+
+.container h2{
+    margin-bottom: 10px;
+}
+.container p{
+    line-height: 1.4;
+}
+img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    float: left;
+    shape-outside: margin-box;
+    margin: 0 20px 5px 0;
+}
+.pise{
+    margin-right: 50%;
+}
+.basilique{
+    margin-left: 50%;
+    margin-top: 3%;
+}
+.cortina{
+    margin-right: 50%;
+    margin-top: 3%;
+}
+.melo{
+   position: relative; 
+   left:   110%;
+   top: -250px;
+}
+.melo1{
+   position: relative; 
+   right:   110%;
+   top: -300px;
+}
+.melo2{
+  position: relative; 
+   left:   110%;
+   top: -300px;
+}
+#F{
+text-align: center;
+background-color: white;
+margin-top: 1cm;
+font-size: x-large;
+}
